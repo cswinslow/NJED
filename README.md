@@ -1,4 +1,5 @@
 # NJED
 
 Another Jedi Knight Level Editor based on JED 0.51  
+Use the community branch for the Delphi community versions. The main branch compiles only with turbo Delphi 2006
 ![NJED](https://user-images.githubusercontent.com/93382571/212498249-b3f9232f-d665-4950-8189-833e3bbcbd12.png)
